@@ -152,4 +152,4 @@ if smoke_total > 0 or regression_total > 0:
 
 # Footer with reduced margin
 st.markdown("<div style='margin-top: 1rem;'><hr/></div>", unsafe_allow_html=True)
-st.markdown("*Test metrics visualization powered by Streamlit and Plotly*")
+#st.markdown("*Test metrics visualization powered by Streamlit and Plotly*")
